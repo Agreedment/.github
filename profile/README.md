@@ -1,12 +1,6 @@
-## Welcome to Agreedment!
-### Only place for Nationwide Cash Buyer data for Wholesalers and Real Estate Professionals
-
-
 👋 Welcome to Agreedment
 
-🔹 What We’re Working On
-
-Saas company dedicated to empowering wholesalers and real estate professionals with comprehensive nationwide market data
+Agreedment is a bootstrapped SaaS proptech company dedicated to empowering wholesalers and real estate professionals with comprehensive nationwide market data.
 
 🚀 Founded by: 
 
