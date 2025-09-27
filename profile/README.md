@@ -11,7 +11,9 @@ Saas company dedicated to empowering wholesalers and real estate professionals w
 🔹 About Us
 
 🚀 Founded by: 
+
 [Courtney Osborne](https://www.linkedin.com/in/courtney-osborne-engineer/) (Co-Founder)
+
 [Steven Osborne](https://www.linkedin.com/in/steven-osborne-98ba59278/) (Co-Founder & Lead Engineer)
 
 🔹 Connect With Us
