@@ -2,13 +2,26 @@
 ### Only place for Nationwide Cash Buyer data for Wholesalers and Real Estate Professionals
 
 
-<!--
+👋 Welcome to Agreedment
 
-**Here are some ideas to get you started:**
+🔹 What We’re Working On
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Saas company dedicated to empowering wholesalers and real estate professionals with comprehensive nationwide market data
+
+🔹 About Us
+
+🚀 Founded by: 
+[Courtney Osborne](https://www.linkedin.com/in/courtney-osborne-engineer/) (Co-Founder)
+[Steven Osborne](https://www.linkedin.com/in/steven-osborne-98ba59278/) (Co-Founder & Lead Engineer)
+
+🔹 Connect With Us
+
+🌐 [Website](https://agreedment.com)
+
+💼 [LinkedIn](https://www.linkedin.com/company/agreedment)
+
+🐙 [GitHub](https://github.com/Agreedment)
+
+▶️ [Youtube](https://www.youtube.com/@agreedment)
+
+📸 [Instagram](https://www.instagram.com/agreedment_/)
