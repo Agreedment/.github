@@ -8,8 +8,6 @@
 
 Saas company dedicated to empowering wholesalers and real estate professionals with comprehensive nationwide market data
 
-🔹 About Us
-
 🚀 Founded by: 
 
 [Courtney Osborne](https://www.linkedin.com/in/courtney-osborne-engineer/) (Co-Founder)
